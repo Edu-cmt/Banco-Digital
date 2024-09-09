@@ -9,7 +9,7 @@ A classe `Cliente`, utilizada como um dos atributos na classe `Conta`.
 
 
 A classe `Banco` que tem como atributo uma lista de contas criadas, e que carrega as regras de negocio para o funcionamento de cada método contido dentro da classe `Conta`. Através dela acessamos a lista
-de contas criadas pelos clientes e atraves dessa lista acessamos individualmente cada conta e seus atributos. 
+de contas criadas e através desta lista acessamos individualmente cada conta e seus atributos. 
 
 ### Banco Digital
 Esse projeto foi criado para simular o acesso de um cliente ao um banco digital. 
