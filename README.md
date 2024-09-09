@@ -4,7 +4,7 @@ Herança e Encapsulamento. Nele também puder aplicar, através do Java Collecti
 
 Aqui temos as classes: `Conta`, como uma super classe para as classes derivadas `ContaPopanca` e `ContaCorrente`. 
 A classe `Cliente`, utilizada como um dos atributos na classe `Conta`.
-A classe `Banco` que tem como atributo a lista de contas criadas, e que carrega as regras de negocio para o funcionamento de cada metodo contido dentro da classe `Conta`. Através dela acessamos a lista
+A classe `Banco` que tem como atributo uma lista de contas criadas, e que carrega as regras de negocio para o funcionamento de cada metodo contido dentro da classe `Conta`. Através dela acessamos a lista
 de contas criadas pelos clientes e atraves dessa lista acessamos individualmente cada conta e seus atributos. 
 
 ### Banco Digital
