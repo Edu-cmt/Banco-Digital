@@ -20,9 +20,10 @@ Nesse programa o cliente terá acesso à algumas funcionalidades, como:
 - Consultar seu extrato bancário.
 - Realizar depósitos, saques e tranferências.
 
-| Imagem 1 | Imagem 2 |
+| Conta Poupança Criada | Conta Corrente Criada |
 |----------|----------|
-| ![image](https://github.com/user-attachments/assets/8dbd9eb4-e38b-4aa2-8503-1562e65f502f) | ![example](/example.png) |
+| ![image](https://github.com/user-attachments/assets/8dbd9eb4-e38b-4aa2-8503-1562e65f502f) | ![image](https://github.com/user-attachments/assets/55485b94-174f-456d-a6d8-96804be8081c)
+|
 
 ![image](https://github.com/user-attachments/assets/8dbd9eb4-e38b-4aa2-8503-1562e65f502f)
 
