@@ -20,14 +20,24 @@ Nesse programa o cliente terá acesso à algumas funcionalidades, como:
 - Consultar seu extrato bancário.
 - Realizar depósitos, saques e tranferências.
 
+Ao criar uma conta, o cliente receberá o número da conta e a agência.(gerado automaticamente pelo sistema)
+Através do número da conta ele poderá realizar as outras operações.
+
+
 | Conta Poupança Criada | Conta Corrente Criada |
 |----------|----------|
 | ![image](https://github.com/user-attachments/assets/8dbd9eb4-e38b-4aa2-8503-1562e65f502f) | ![image](https://github.com/user-attachments/assets/55485b94-174f-456d-a6d8-96804be8081c)
 
-##### Depósito relizado na conta poupança através do numero da conta(gerado automaticamente ao criar a conta).
+##### Depósito relizado na conta poupança.
 | Deposito Conta Poupança| Extrato Conta Poupança|
 |----------|----------|
-| ![image](https://github.com/user-attachments/assets/081e7189-7b07-4d74-9f8d-2ba007192977) | ![image](https://github.com/user-attachments/assets/b094cb02-a5c6-450b-a584-67c016b9d094)
+| ![image](https://github.com/user-attachments/assets/081e7189-7b07-4d74-9f8d-2ba007192977) | ![image](https://github.com/user-attachments/assets/76c89313-1b04-4233-bec0-f746e0d41450)
+##### Saque realizado na conta poupança.
+| Saque Conta Poupança| Extrato após o saque|
+|----------|----------|
+| ![image](https://github.com/user-attachments/assets/afbb77ea-a081-4771-bd6f-fc1094def64d) | ![image](https://github.com/user-attachments/assets/c18b5b87-8855-4f6b-8396-00b8df3571f4)
+
+
 
 
 
