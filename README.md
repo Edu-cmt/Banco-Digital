@@ -22,7 +22,7 @@ Nesse programa o cliente terá acesso à algumas funcionalidades, como:
 
 | Conta Poupança Criada | Conta Corrente Criada |
 |----------|----------|
-| ![image](https://github.com/user-attachments/assets/8dbd9eb4-e38b-4aa2-8503-1562e65f502f) | ![image](https://github.com/user-attachments/assets/55485b94-174f-456d-a6d8-96804be8081c)
+| <img src = "!https://github.com/user-attachments/assets/8dbd9eb4-e38b-4aa2-8503-1562e65f502f" width= "50px"> | ![image](https://github.com/user-attachments/assets/55485b94-174f-456d-a6d8-96804be8081c)
 
 ##### Depósito relizado na conta poupança através do numero da conta(gerado automaticamente ao criar a conta).
 ![image](https://github.com/user-attachments/assets/081e7189-7b07-4d74-9f8d-2ba007192977)
