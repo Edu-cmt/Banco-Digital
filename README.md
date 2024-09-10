@@ -44,7 +44,8 @@ Aqui é pedido o numero da conta emissora e da conta destino para realizar a ope
 ##### Extrato das contas após a transferência.
 | Extrato da conta Poupança| Extrato da Conta Corrente|
 |----------|----------|
-| ![image](https://github.com/user-attachments/assets/afbb77ea-a081-4771-bd6f-fc1094def64d) | ![image](https://github.com/user-attachments/assets/c18b5b87-8855-4f6b-8396-00b8df3571f4)
+| ![image](https://github.com/user-attachments/assets/ce878ff4-f601-4bde-af87-2952b6038904) | ![image](https://github.com/user-attachments/assets/4dfab42d-7265-4dbc-91e0-80ea53919be5)
+
 
 
 
