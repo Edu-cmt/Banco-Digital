@@ -36,6 +36,17 @@ Através do número da conta ele poderá realizar as outras operações.
 | Saque Conta Poupança| Extrato após o saque|
 |----------|----------|
 | ![image](https://github.com/user-attachments/assets/afbb77ea-a081-4771-bd6f-fc1094def64d) | ![image](https://github.com/user-attachments/assets/c18b5b87-8855-4f6b-8396-00b8df3571f4)
+##### Trasnferência da conta poupança para a conta corrente.
+Aqui é pedido o numero da conta emissora e da conta destino para realizar a operação.
+| Tranferência entre contas|
+|----------|
+| ![image](https://github.com/user-attachments/assets/9fd6c2b4-eacf-4f93-b03a-1c22030d1848) |
+##### Extrato das contas após a transferência.
+| Extrato da conta Poupança| Extrato da Conta Corrente|
+|----------|----------|
+| ![image](https://github.com/user-attachments/assets/afbb77ea-a081-4771-bd6f-fc1094def64d) | ![image](https://github.com/user-attachments/assets/c18b5b87-8855-4f6b-8396-00b8df3571f4)
+
+
 
 
 
